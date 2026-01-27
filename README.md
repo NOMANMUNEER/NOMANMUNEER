@@ -26,10 +26,7 @@ I am a Full-Stack Developer and AI Enthusiast based in Lahore. I specialize in b
 - Web Scraping and Data Gathering
 - Building Native Android Apps
 
-## 📫 Connect with Me
-- **Portfolio:** [YourDomain.com](https://yourdomain.com) (Update this with your link!)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email:** [Your Email Address]
+
 
 ---
 ⚡ **Fun Fact:** I once trained a genetic algorithm (NEAT) to master the Chrome Dino game—it survived hundreds of generations to become the ultimate runner!
